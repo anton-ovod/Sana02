@@ -1,6 +1,5 @@
 ﻿using System.Text;
 
-// Ukrainian lang
 Console.InputEncoding = Encoding.UTF8;
 Console.OutputEncoding = Encoding.UTF8;
 

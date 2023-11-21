@@ -2,7 +2,6 @@
 
 
 int n;
-
 while (true)
 {
     Console.Write("Enter n:");

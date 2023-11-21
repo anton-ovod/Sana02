@@ -1,3 +1,3 @@
-ПІБ: ***Овод Антон Олегович**
+ПІБ: ***Овод Антон Олегович***
 
-Email: ***antovod36@gmail.com**
+Email: ***antovod36@gmail.com***
